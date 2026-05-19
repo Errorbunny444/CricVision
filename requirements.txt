@@ -1,0 +1,32 @@
+# Core Web Framework
+streamlit==1.39.0
+
+# Data Handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Database & ORM
+SQLAlchemy==2.0.29
+PyMySQL==1.1.0
+
+# Visualization
+plotly==5.23.0
+matplotlib==3.9.0
+networkx==3.3
+pyvis==0.3.2
+
+# Machine Learning
+scikit-learn==1.5.2
+prophet==1.1.5
+
+# PDF Generation
+pdfkit==1.0.0
+wkhtmltopdf==0.12.6 (external binary required)
+
+# Miscellaneous Utilities
+requests==2.32.3
+python-dateutil==2.9.0
+joblib==1.4.2
+
+# Compatibility / Fixes
+tqdm==4.66.3
